@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+### Here are the projects I've worked on:
+
+[The Effect of Outside Variables on STEM Student GPA](Stats 112 Stem Final Project copy.pdf)
+
+[Predicting Alcoholic Status Using Person's Vitals](101c final report copy.pdf)
+
+[Global Happiness in 2021](https://thehappydata.humspace.ucla.edu/)

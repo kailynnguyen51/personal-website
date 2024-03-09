@@ -1,0 +1,22 @@
+---
+toc: false
+about: 
+  template: trestles
+  links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/kailyn-nguyen-608a36230/
+        - icon: github
+          text: Github
+          url: https://github.com/kailynnguyen51
+        - text: Email
+          url: "mailto:kailynnguyen51@gmail.com"
+          icon: inbox-fill
+image: profile-picture.jpg
+---
+
+### Bio
+
+I am currently a 4th year Statistics and Data Science Major at University of California, Los Angeles. I was first introduced to computer science and engineering through Girl Code @Stanford, a student program that aims to teach young high school girls the coding basics. After graduation, I hope to use my developed skills to enter the tech industry.
+
+Attached is my current [CV](CV.pdf "CV").
