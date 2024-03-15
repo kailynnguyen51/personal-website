@@ -19,4 +19,4 @@ image: profile-picture.jpg
 
 I am currently a 4th year Statistics and Data Science Major at University of California, Los Angeles. I was first introduced to computer science and engineering through Girl Code @Stanford, a student program that aims to teach young high school girls the coding basics. After graduation, I hope to use my developed skills to enter the tech industry.
 
-Attached is my current [CV](CV.pdf "CV").
+Attached is my current [CV](CV copy.pdf "CV").
